@@ -1,5 +1,6 @@
 ## The following is a pair of functions that cache and compute the 
 ## inverse of a matrix.
+## Courser R programming asignment 2
 
 ## This function creates a special "matrix" object
 ## that can cache its inverse.
